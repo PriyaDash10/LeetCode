@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PriyaDash10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PriyaDash10/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/PriyaDash10/LeetCode/tree/master/0204-count-primes) |
 ## Math
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PriyaDash10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PriyaDash10/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PriyaDash10/LeetCode/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/PriyaDash10/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
