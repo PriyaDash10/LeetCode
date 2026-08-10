@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PriyaDash10/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyaDash10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/PriyaDash10/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/PriyaDash10/LeetCode/tree/master/0204-count-primes) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyaDash10/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/PriyaDash10/LeetCode/tree/master/0175-combine-two-tables) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyaDash10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
