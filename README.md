@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PriyaDash10/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PriyaDash10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/PriyaDash10/LeetCode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/PriyaDash10/LeetCode/tree/master/0223-rectangle-area) |
 ## Enumeration
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyaDash10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/PriyaDash10/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
