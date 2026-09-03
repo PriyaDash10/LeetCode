@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PriyaDash10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/PriyaDash10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyaDash10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/PriyaDash10/LeetCode/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PriyaDash10/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/PriyaDash10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/PriyaDash10/LeetCode/tree/master/0344-reverse-string) |
 ## Sliding Window
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/PriyaDash10/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PriyaDash10/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
